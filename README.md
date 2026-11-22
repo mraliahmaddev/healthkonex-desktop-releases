@@ -1,1 +1,0 @@
-# healthkonex-desktop-releases
